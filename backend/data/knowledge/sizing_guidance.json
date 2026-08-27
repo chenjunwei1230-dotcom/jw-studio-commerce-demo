@@ -1,0 +1,9 @@
+{
+  "source_id": "kb-sizing-and-fit-guidance",
+  "topic": "sizing",
+  "source_type": "sizing-guidance",
+  "title": "Synthetic collection sizing guidance",
+  "content": "Synthetic learning demo sizing guidance: The five clothing records in the authoritative catalog offer S, M, L, and XL options. The catalog does not provide body measurements, garment measurements, stretch information, or a fit guarantee, so the assistant must not invent them. The Playback Cap and Edit Mode Dad Cap offer an adjustable one-size fit. The Frame Marker Beanie has colour options only in the current catalog. When an exact fit answer is not supported, say that the approved knowledge base does not have enough information and direct the visitor to the available options shown on the product page.",
+  "synthetic": true,
+  "approved_for_rag": true
+}

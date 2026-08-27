@@ -1,0 +1,242 @@
+[
+  {
+    "id": "keep-showing-up-keychain",
+    "name": "Keep Showing Up Keychain",
+    "category": "decorative",
+    "price": "12.00",
+    "currency": "MYR",
+    "description": "A small acrylic keychain with the phrase that keeps the creative process moving on difficult days.",
+    "materials": ["Clear acrylic", "Stainless steel key ring"],
+    "care_instructions": "Wipe gently with a soft dry cloth and keep away from prolonged heat.",
+    "image_reference": "/assets/products/keep-showing-up-keychain.jpg",
+    "image_alt_text": "Orange and purple acrylic keychain with a keep showing up message",
+    "options": {
+      "colour": ["Orange", "Purple"]
+    },
+    "design_meaning": "The compact frame shape is a reminder that one small step still belongs in the final timeline.",
+    "creator_recommendation": "Jia Wei recommends this for fans who want a simple everyday reminder to keep creating."
+  },
+  {
+    "id": "frame-by-frame-keychain",
+    "name": "Frame by Frame Keychain",
+    "category": "decorative",
+    "price": "14.00",
+    "currency": "MYR",
+    "description": "A layered keychain inspired by the frames and playback marks of a beginner editor's workspace.",
+    "materials": ["Layered acrylic", "Zinc alloy clasp"],
+    "care_instructions": "Wipe gently with a soft dry cloth and avoid strong solvents.",
+    "image_reference": "/assets/products/frame-by-frame-keychain.jpg",
+    "image_alt_text": "Layered blue and purple frame-shaped keychain with playback marks",
+    "options": {
+      "colour": ["Deep Blue", "Creative Purple"]
+    },
+    "design_meaning": "Each layer represents a moment of practice that becomes part of the larger story.",
+    "creator_recommendation": "Jia Wei recommends this for editing learners who enjoy carrying a visual piece of their process."
+  },
+  {
+    "id": "progress-bar-sticker-set",
+    "name": "Progress Bar Sticker Set",
+    "category": "decorative",
+    "price": "8.00",
+    "currency": "MYR",
+    "description": "Six small stickers for laptops, notebooks, and editing folders, each celebrating a different stage of progress.",
+    "materials": ["Matte vinyl"],
+    "care_instructions": "Apply to a clean dry surface and hand-wipe only when needed.",
+    "image_reference": "/assets/products/progress-bar-sticker-set.jpg",
+    "image_alt_text": "Six colourful progress bar stickers arranged beside a notebook",
+    "options": {
+      "pack": ["Set of 6"]
+    },
+    "design_meaning": "The different progress bars make unfinished work feel visible, useful, and worth continuing.",
+    "creator_recommendation": "Jia Wei recommends this for fans who like decorating their study setup with small creative cues."
+  },
+  {
+    "id": "edit-in-progress-acrylic-charm",
+    "name": "Edit in Progress Acrylic Charm",
+    "category": "decorative",
+    "price": "15.00",
+    "currency": "MYR",
+    "description": "A playful editing-timeline charm for a bag, pencil case, or camera pouch.",
+    "materials": ["Acrylic", "Soft rubber charm loop"],
+    "care_instructions": "Wipe gently with a soft cloth and store away from sharp objects.",
+    "image_reference": "/assets/products/edit-in-progress-acrylic-charm.jpg",
+    "image_alt_text": "Small acrylic charm shaped like an editing timeline with an orange marker",
+    "options": {
+      "finish": ["Gloss", "Matte"]
+    },
+    "design_meaning": "Edit in progress is an honest status, not an apology; learning takes time and the project is still moving.",
+    "creator_recommendation": "Jia Wei recommends this for anyone who is still learning and does not want to pretend the process is perfect."
+  },
+  {
+    "id": "creator-desk-magnet-set",
+    "name": "Creator Desk Magnet Set",
+    "category": "decorative",
+    "price": "18.00",
+    "currency": "MYR",
+    "description": "Four illustrated magnets for notes, shot lists, and small wins on a creative workspace board.",
+    "materials": ["Printed paper", "Gloss laminate", "Magnetic backing"],
+    "care_instructions": "Keep dry and wipe the laminated surface gently with a soft cloth.",
+    "image_reference": "/assets/products/creator-desk-magnet-set.jpg",
+    "image_alt_text": "Four colourful creator desk magnets showing notes, frames, and progress marks",
+    "options": {
+      "pack": ["Set of 4"]
+    },
+    "design_meaning": "The set turns everyday planning into a visible record of small ideas becoming real work.",
+    "creator_recommendation": "Jia Wei recommends this for fans who enjoy planning videos, study sessions, or personal projects."
+  },
+  {
+    "id": "keep-showing-up-tee",
+    "name": "Keep Showing Up Tee",
+    "category": "clothing",
+    "price": "49.00",
+    "currency": "MYR",
+    "description": "A relaxed everyday tee with a quiet front mark and the core belief across the back.",
+    "materials": ["100% cotton"],
+    "care_instructions": "Machine wash cold with similar colours and air dry when possible.",
+    "image_reference": "/assets/products/keep-showing-up-tee.jpg",
+    "image_alt_text": "Soft white cotton tee with a small frame mark on the front",
+    "image_variants": {
+      "colour": {
+        "Soft White": {
+          "image_reference": "/assets/products/keep-showing-up-tee.jpg",
+          "image_alt_text": "Soft white cotton tee with a small frame mark on the front"
+        },
+        "Deep Blue": {
+          "image_reference": "/assets/products/keep-showing-up-tee-deep-blue.jpg",
+          "image_alt_text": "Deep blue cotton tee with a small frame mark on the front"
+        }
+      }
+    },
+    "options": {
+      "size": ["S", "M", "L", "XL"],
+      "colour": ["Soft White", "Deep Blue"]
+    },
+    "design_meaning": "The simple front keeps the message close, while the back makes the belief visible when you keep moving forward.",
+    "creator_recommendation": "Jia Wei recommends this as the easiest first piece for fans who want an everyday reminder without a loud graphic."
+  },
+  {
+    "id": "work-in-progress-tee",
+    "name": "Work in Progress Tee",
+    "category": "clothing",
+    "price": "52.00",
+    "currency": "MYR",
+    "description": "A comfortable tee with an editing status label for people learning in public and improving as they go.",
+    "materials": ["100% cotton"],
+    "care_instructions": "Machine wash cold inside out and avoid high heat when drying.",
+    "image_reference": "/assets/products/work-in-progress-tee.jpg",
+    "image_alt_text": "Deep blue cotton tee with a colourful work in progress label",
+    "options": {
+      "size": ["S", "M", "L", "XL"],
+      "colour": ["Deep Blue", "Soft White"]
+    },
+    "design_meaning": "The label treats learning as a current state with momentum, not a permanent measure of ability.",
+    "creator_recommendation": "Jia Wei recommends this for fans who are building a skill, sharing early work, or starting again."
+  },
+  {
+    "id": "frame-by-frame-long-sleeve",
+    "name": "Frame by Frame Long Sleeve",
+    "category": "clothing",
+    "price": "68.00",
+    "currency": "MYR",
+    "description": "A lightweight long-sleeve layer with small frame markers along the sleeve for edit days and cool evenings.",
+    "materials": ["Cotton jersey"],
+    "care_instructions": "Machine wash cold and lay flat or hang dry to help preserve the shape.",
+    "image_reference": "/assets/products/frame-by-frame-long-sleeve.jpg",
+    "image_alt_text": "Creative purple long-sleeve top with small frame markers on one sleeve",
+    "options": {
+      "size": ["S", "M", "L", "XL"],
+      "colour": ["Creative Purple", "Soft White"]
+    },
+    "design_meaning": "The repeated frame marks show that progress is built from connected moments rather than one dramatic breakthrough.",
+    "creator_recommendation": "Jia Wei recommends this for long editing sessions, study days, and fans who like subtle visual details."
+  },
+  {
+    "id": "timeline-notes-hoodie",
+    "name": "Timeline Notes Hoodie",
+    "category": "clothing",
+    "price": "89.00",
+    "currency": "MYR",
+    "description": "A soft hoodie with a small timeline note on the chest and a focused creator label at the hem.",
+    "materials": ["Cotton fleece", "Recycled polyester blend"],
+    "care_instructions": "Machine wash cold inside out and dry on low heat or air dry.",
+    "image_reference": "/assets/products/timeline-notes-hoodie.jpg",
+    "image_alt_text": "Deep blue fleece hoodie with a small timeline note on the chest",
+    "options": {
+      "size": ["S", "M", "L", "XL"],
+      "colour": ["Deep Blue", "Soft White"]
+    },
+    "design_meaning": "Notes on a timeline are evidence of attention; the hoodie celebrates the quiet work behind a finished video.",
+    "creator_recommendation": "Jia Wei recommends this for fans who prefer a calmer, more practical statement piece for work or study."
+  },
+  {
+    "id": "small-steps-sweatpants",
+    "name": "Small Steps Sweatpants",
+    "category": "clothing",
+    "price": "79.00",
+    "currency": "MYR",
+    "description": "Relaxed sweatpants with a small progress marker near the pocket, made for comfortable creative routines.",
+    "materials": ["Cotton fleece", "Recycled polyester blend"],
+    "care_instructions": "Machine wash cold with similar colours and air dry for best results.",
+    "image_reference": "/assets/products/small-steps-sweatpants.jpg",
+    "image_alt_text": "Soft white relaxed sweatpants with a small orange progress marker near the pocket",
+    "options": {
+      "size": ["S", "M", "L", "XL"],
+      "colour": ["Soft White", "Deep Blue"]
+    },
+    "design_meaning": "The small marker keeps the focus on the next useful step instead of demanding a perfect result today.",
+    "creator_recommendation": "Jia Wei recommends this for comfortable home editing, planning, and recovery-day routines."
+  },
+  {
+    "id": "playback-cap",
+    "name": "Playback Cap",
+    "category": "headwear",
+    "price": "45.00",
+    "currency": "MYR",
+    "description": "A casual adjustable cap with a small playback symbol for filming days, errands, and edit breaks.",
+    "materials": ["Cotton twill", "Metal adjuster"],
+    "care_instructions": "Spot clean with a damp cloth and let the cap air dry naturally.",
+    "image_reference": "/assets/products/playback-cap.jpg",
+    "image_alt_text": "Deep blue adjustable cotton cap with a small playback symbol",
+    "options": {
+      "fit": ["Adjustable one-size"],
+      "colour": ["Deep Blue", "Energetic Orange"]
+    },
+    "design_meaning": "Playback is a chance to notice what worked, learn from what did not, and try the next cut with more clarity.",
+    "creator_recommendation": "Jia Wei recommends this for fans who want the editing reference to stay small and wearable."
+  },
+  {
+    "id": "edit-mode-dad-cap",
+    "name": "Edit Mode Dad Cap",
+    "category": "headwear",
+    "price": "46.00",
+    "currency": "MYR",
+    "description": "A relaxed washed cap with an edit mode label for focused work sessions and everyday creator life.",
+    "materials": ["Washed cotton twill", "Metal adjuster"],
+    "care_instructions": "Spot clean gently and avoid machine washing to protect the washed finish.",
+    "image_reference": "/assets/products/edit-mode-dad-cap.jpg",
+    "image_alt_text": "Washed purple cotton dad cap with a small edit mode label",
+    "options": {
+      "fit": ["Adjustable one-size"],
+      "colour": ["Creative Purple", "Soft White"]
+    },
+    "design_meaning": "The edit mode label gives permission to focus on one small piece of work at a time.",
+    "creator_recommendation": "Jia Wei recommends this for fans who like a softer, everyday silhouette while they study or create."
+  },
+  {
+    "id": "frame-marker-beanie",
+    "name": "Frame Marker Beanie",
+    "category": "headwear",
+    "price": "42.00",
+    "currency": "MYR",
+    "description": "A warm ribbed beanie with one bright frame marker woven into the cuff.",
+    "materials": ["Acrylic knit"],
+    "care_instructions": "Hand wash gently in cool water and lay flat to dry.",
+    "image_reference": "/assets/products/frame-marker-beanie.jpg",
+    "image_alt_text": "Soft white ribbed beanie with a bright orange frame marker on the cuff",
+    "options": {
+      "colour": ["Soft White", "Deep Blue"]
+    },
+    "design_meaning": "The single marker is a small sign that even a quiet day can hold a moment worth keeping.",
+    "creator_recommendation": "Jia Wei recommends this for fans who want a warm, subtle piece with one playful editing detail."
+  }
+]

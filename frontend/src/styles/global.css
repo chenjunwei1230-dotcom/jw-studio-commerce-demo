@@ -1,0 +1,46 @@
+@import './tokens.css';
+@import './App.css';
+
+:root {
+  font-family: var(--font-body);
+  color: var(--color-deep-blue-black);
+  background: var(--color-soft-white);
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  min-width: 320px;
+  min-height: 100vh;
+  margin: 0;
+  background: var(--color-soft-white);
+}
+
+button,
+a {
+  font: inherit;
+}
+
+a {
+  color: inherit;
+}
+
+button:focus-visible,
+a:focus-visible,
+input:focus-visible,
+textarea:focus-visible,
+select:focus-visible {
+  outline: 0.1875rem solid var(--color-creative-purple);
+  outline-offset: 0.25rem;
+  box-shadow: var(--shadow-focus);
+}
+
+#root {
+  min-height: 100vh;
+}

@@ -1,0 +1,9 @@
+{
+  "source_id": "kb-shop-faq",
+  "topic": "faq",
+  "source_type": "faq",
+  "title": "Synthetic shop questions and answers",
+  "content": "Synthetic learning demo FAQ: What is this collection? It is a fictional set of 13 creator merchandise records inspired by Jia Wei's Frame by Frame Studio story. Are these real products? No. The creator, products, images, and purchase flow are synthetic learning content. How should product facts be checked? Use the authoritative catalog and product page for product identity, options, materials, care, and application data. What happens at checkout? The demo validates a selection and shows a synthetic result; no real payment, fulfilment, or order is created. Can the assistant confirm a price, total, stock level, shipping update, refund, or payment status? No. Those answers belong to application data or backend rules, and the assistant must not guess them.",
+  "synthetic": true,
+  "approved_for_rag": true
+}

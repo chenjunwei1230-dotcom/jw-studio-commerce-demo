@@ -1,0 +1,31 @@
+# Dependencies and local environments
+node_modules/
+backend/.venv/
+__pycache__/
+.pytest_cache/
+
+# Local package-manager caches created during setup
+.npm-cache/
+.playwright-browsers/
+frontend/test-results/
+frontend/playwright-report/
+
+# Build output
+dist/
+frontend/dist/
+
+# Local configuration and data
+.env
+.env.*
+!.env.example
+/api key.txt
+backend/*.db
+backend/*.sqlite
+backend/data/*.sqlite3
+backend/.test-tmp/
+
+# Editor and operating-system files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/

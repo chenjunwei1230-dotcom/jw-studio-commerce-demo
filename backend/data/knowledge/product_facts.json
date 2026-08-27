@@ -1,0 +1,262 @@
+[
+  {
+    "source_id": "product-keep-showing-up-keychain",
+    "topic": "product",
+    "source_type": "product-facts",
+    "product_id": "keep-showing-up-keychain",
+    "title": "Synthetic product notes: Keep Showing Up Keychain",
+    "content": "Synthetic learning demo product notes: Keep Showing Up Keychain is a decorative item. A small acrylic keychain with the phrase that keeps the creative process moving on difficult days. Materials are Clear acrylic and Stainless steel key ring. The available Colour options are Orange and Purple. Care: Wipe gently with a soft dry cloth and keep away from prolonged heat. Design meaning: The compact frame shape is a reminder that one small step still belongs in the final timeline. Creator recommendation: Jia Wei recommends this for fans who want a simple everyday reminder to keep creating.",
+    "synthetic": true,
+    "approved_for_rag": true,
+    "facts": {
+      "name": "Keep Showing Up Keychain",
+      "category": "decorative",
+      "description": "A small acrylic keychain with the phrase that keeps the creative process moving on difficult days.",
+      "materials": ["Clear acrylic", "Stainless steel key ring"],
+      "care_instructions": "Wipe gently with a soft dry cloth and keep away from prolonged heat.",
+      "options": {"colour": ["Orange", "Purple"]},
+      "design_meaning": "The compact frame shape is a reminder that one small step still belongs in the final timeline.",
+      "creator_recommendation": "Jia Wei recommends this for fans who want a simple everyday reminder to keep creating."
+    }
+  },
+  {
+    "source_id": "product-frame-by-frame-keychain",
+    "topic": "product",
+    "source_type": "product-facts",
+    "product_id": "frame-by-frame-keychain",
+    "title": "Synthetic product notes: Frame by Frame Keychain",
+    "content": "Synthetic learning demo product notes: Frame by Frame Keychain is a decorative item. A layered keychain inspired by the frames and playback marks of a beginner editor's workspace. Materials are Layered acrylic and Zinc alloy clasp. The available Colour options are Deep Blue and Creative Purple. Care: Wipe gently with a soft dry cloth and avoid strong solvents. Design meaning: Each layer represents a moment of practice that becomes part of the larger story. Creator recommendation: Jia Wei recommends this for editing learners who enjoy carrying a visual piece of their process.",
+    "synthetic": true,
+    "approved_for_rag": true,
+    "facts": {
+      "name": "Frame by Frame Keychain",
+      "category": "decorative",
+      "description": "A layered keychain inspired by the frames and playback marks of a beginner editor's workspace.",
+      "materials": ["Layered acrylic", "Zinc alloy clasp"],
+      "care_instructions": "Wipe gently with a soft dry cloth and avoid strong solvents.",
+      "options": {"colour": ["Deep Blue", "Creative Purple"]},
+      "design_meaning": "Each layer represents a moment of practice that becomes part of the larger story.",
+      "creator_recommendation": "Jia Wei recommends this for editing learners who enjoy carrying a visual piece of their process."
+    }
+  },
+  {
+    "source_id": "product-progress-bar-sticker-set",
+    "topic": "product",
+    "source_type": "product-facts",
+    "product_id": "progress-bar-sticker-set",
+    "title": "Synthetic product notes: Progress Bar Sticker Set",
+    "content": "Synthetic learning demo product notes: Progress Bar Sticker Set is a decorative item. Six small stickers for laptops, notebooks, and editing folders, each celebrating a different stage of progress. The material is Matte vinyl. The available Pack option is Set of 6. Care: Apply to a clean dry surface and hand-wipe only when needed. Design meaning: The different progress bars make unfinished work feel visible, useful, and worth continuing. Creator recommendation: Jia Wei recommends this for fans who like decorating their study setup with small creative cues.",
+    "synthetic": true,
+    "approved_for_rag": true,
+    "facts": {
+      "name": "Progress Bar Sticker Set",
+      "category": "decorative",
+      "description": "Six small stickers for laptops, notebooks, and editing folders, each celebrating a different stage of progress.",
+      "materials": ["Matte vinyl"],
+      "care_instructions": "Apply to a clean dry surface and hand-wipe only when needed.",
+      "options": {"pack": ["Set of 6"]},
+      "design_meaning": "The different progress bars make unfinished work feel visible, useful, and worth continuing.",
+      "creator_recommendation": "Jia Wei recommends this for fans who like decorating their study setup with small creative cues."
+    }
+  },
+  {
+    "source_id": "product-edit-in-progress-acrylic-charm",
+    "topic": "product",
+    "source_type": "product-facts",
+    "product_id": "edit-in-progress-acrylic-charm",
+    "title": "Synthetic product notes: Edit in Progress Acrylic Charm",
+    "content": "Synthetic learning demo product notes: Edit in Progress Acrylic Charm is a decorative item. A playful editing-timeline charm for a bag, pencil case, or camera pouch. Materials are Acrylic and Soft rubber charm loop. The available Finish options are Gloss and Matte. Care: Wipe gently with a soft cloth and store away from sharp objects. Design meaning: Edit in progress is an honest status, not an apology; learning takes time and the project is still moving. Creator recommendation: Jia Wei recommends this for anyone who is still learning and does not want to pretend the process is perfect.",
+    "synthetic": true,
+    "approved_for_rag": true,
+    "facts": {
+      "name": "Edit in Progress Acrylic Charm",
+      "category": "decorative",
+      "description": "A playful editing-timeline charm for a bag, pencil case, or camera pouch.",
+      "materials": ["Acrylic", "Soft rubber charm loop"],
+      "care_instructions": "Wipe gently with a soft cloth and store away from sharp objects.",
+      "options": {"finish": ["Gloss", "Matte"]},
+      "design_meaning": "Edit in progress is an honest status, not an apology; learning takes time and the project is still moving.",
+      "creator_recommendation": "Jia Wei recommends this for anyone who is still learning and does not want to pretend the process is perfect."
+    }
+  },
+  {
+    "source_id": "product-creator-desk-magnet-set",
+    "topic": "product",
+    "source_type": "product-facts",
+    "product_id": "creator-desk-magnet-set",
+    "title": "Synthetic product notes: Creator Desk Magnet Set",
+    "content": "Synthetic learning demo product notes: Creator Desk Magnet Set is a decorative item. Four illustrated magnets for notes, shot lists, and small wins on a creative workspace board. Materials are Printed paper, Gloss laminate, and Magnetic backing. The available Pack option is Set of 4. Care: Keep dry and wipe the laminated surface gently with a soft cloth. Design meaning: The set turns everyday planning into a visible record of small ideas becoming real work. Creator recommendation: Jia Wei recommends this for fans who enjoy planning videos, study sessions, or personal projects.",
+    "synthetic": true,
+    "approved_for_rag": true,
+    "facts": {
+      "name": "Creator Desk Magnet Set",
+      "category": "decorative",
+      "description": "Four illustrated magnets for notes, shot lists, and small wins on a creative workspace board.",
+      "materials": ["Printed paper", "Gloss laminate", "Magnetic backing"],
+      "care_instructions": "Keep dry and wipe the laminated surface gently with a soft cloth.",
+      "options": {"pack": ["Set of 4"]},
+      "design_meaning": "The set turns everyday planning into a visible record of small ideas becoming real work.",
+      "creator_recommendation": "Jia Wei recommends this for fans who enjoy planning videos, study sessions, or personal projects."
+    }
+  },
+  {
+    "source_id": "product-keep-showing-up-tee",
+    "topic": "product",
+    "source_type": "product-facts",
+    "product_id": "keep-showing-up-tee",
+    "title": "Synthetic product notes: Keep Showing Up Tee",
+    "content": "Synthetic learning demo product notes: Keep Showing Up Tee is a clothing item. A relaxed everyday tee with a quiet front mark and the core belief across the back. The material is 100% cotton. The available Size options are S, M, L, and XL. The available Colour options are Soft White and Deep Blue. Care: Machine wash cold with similar colours and air dry when possible. Design meaning: The simple front keeps the message close, while the back makes the belief visible when you keep moving forward. Creator recommendation: Jia Wei recommends this as the easiest first piece for fans who want an everyday reminder without a loud graphic.",
+    "synthetic": true,
+    "approved_for_rag": true,
+    "facts": {
+      "name": "Keep Showing Up Tee",
+      "category": "clothing",
+      "description": "A relaxed everyday tee with a quiet front mark and the core belief across the back.",
+      "materials": ["100% cotton"],
+      "care_instructions": "Machine wash cold with similar colours and air dry when possible.",
+      "options": {"size": ["S", "M", "L", "XL"], "colour": ["Soft White", "Deep Blue"]},
+      "design_meaning": "The simple front keeps the message close, while the back makes the belief visible when you keep moving forward.",
+      "creator_recommendation": "Jia Wei recommends this as the easiest first piece for fans who want an everyday reminder without a loud graphic."
+    }
+  },
+  {
+    "source_id": "product-work-in-progress-tee",
+    "topic": "product",
+    "source_type": "product-facts",
+    "product_id": "work-in-progress-tee",
+    "title": "Synthetic product notes: Work in Progress Tee",
+    "content": "Synthetic learning demo product notes: Work in Progress Tee is a clothing item. A comfortable tee with an editing status label for people learning in public and improving as they go. The material is 100% cotton. The available Size options are S, M, L, and XL. The available Colour options are Deep Blue and Soft White. Care: Machine wash cold inside out and avoid high heat when drying. Design meaning: The label treats learning as a current state with momentum, not a permanent measure of ability. Creator recommendation: Jia Wei recommends this for fans who are building a skill, sharing early work, or starting again.",
+    "synthetic": true,
+    "approved_for_rag": true,
+    "facts": {
+      "name": "Work in Progress Tee",
+      "category": "clothing",
+      "description": "A comfortable tee with an editing status label for people learning in public and improving as they go.",
+      "materials": ["100% cotton"],
+      "care_instructions": "Machine wash cold inside out and avoid high heat when drying.",
+      "options": {"size": ["S", "M", "L", "XL"], "colour": ["Deep Blue", "Soft White"]},
+      "design_meaning": "The label treats learning as a current state with momentum, not a permanent measure of ability.",
+      "creator_recommendation": "Jia Wei recommends this for fans who are building a skill, sharing early work, or starting again."
+    }
+  },
+  {
+    "source_id": "product-frame-by-frame-long-sleeve",
+    "topic": "product",
+    "source_type": "product-facts",
+    "product_id": "frame-by-frame-long-sleeve",
+    "title": "Synthetic product notes: Frame by Frame Long Sleeve",
+    "content": "Synthetic learning demo product notes: Frame by Frame Long Sleeve is a clothing item. A lightweight long-sleeve layer with small frame markers along the sleeve for edit days and cool evenings. The material is Cotton jersey. The available Size options are S, M, L, and XL. The available Colour options are Creative Purple and Soft White. Care: Machine wash cold and lay flat or hang dry to help preserve the shape. Design meaning: The repeated frame marks show that progress is built from connected moments rather than one dramatic breakthrough. Creator recommendation: Jia Wei recommends this for long editing sessions, study days, and fans who like subtle visual details.",
+    "synthetic": true,
+    "approved_for_rag": true,
+    "facts": {
+      "name": "Frame by Frame Long Sleeve",
+      "category": "clothing",
+      "description": "A lightweight long-sleeve layer with small frame markers along the sleeve for edit days and cool evenings.",
+      "materials": ["Cotton jersey"],
+      "care_instructions": "Machine wash cold and lay flat or hang dry to help preserve the shape.",
+      "options": {"size": ["S", "M", "L", "XL"], "colour": ["Creative Purple", "Soft White"]},
+      "design_meaning": "The repeated frame marks show that progress is built from connected moments rather than one dramatic breakthrough.",
+      "creator_recommendation": "Jia Wei recommends this for long editing sessions, study days, and fans who like subtle visual details."
+    }
+  },
+  {
+    "source_id": "product-timeline-notes-hoodie",
+    "topic": "product",
+    "source_type": "product-facts",
+    "product_id": "timeline-notes-hoodie",
+    "title": "Synthetic product notes: Timeline Notes Hoodie",
+    "content": "Synthetic learning demo product notes: Timeline Notes Hoodie is a clothing item. A soft hoodie with a small timeline note on the chest and a focused creator label at the hem. Materials are Cotton fleece and Recycled polyester blend. The available Size options are S, M, L, and XL. The available Colour options are Deep Blue and Soft White. Care: Machine wash cold inside out and dry on low heat or air dry. Design meaning: Notes on a timeline are evidence of attention; the hoodie celebrates the quiet work behind a finished video. Creator recommendation: Jia Wei recommends this for fans who prefer a calmer, more practical statement piece for work or study.",
+    "synthetic": true,
+    "approved_for_rag": true,
+    "facts": {
+      "name": "Timeline Notes Hoodie",
+      "category": "clothing",
+      "description": "A soft hoodie with a small timeline note on the chest and a focused creator label at the hem.",
+      "materials": ["Cotton fleece", "Recycled polyester blend"],
+      "care_instructions": "Machine wash cold inside out and dry on low heat or air dry.",
+      "options": {"size": ["S", "M", "L", "XL"], "colour": ["Deep Blue", "Soft White"]},
+      "design_meaning": "Notes on a timeline are evidence of attention; the hoodie celebrates the quiet work behind a finished video.",
+      "creator_recommendation": "Jia Wei recommends this for fans who prefer a calmer, more practical statement piece for work or study."
+    }
+  },
+  {
+    "source_id": "product-small-steps-sweatpants",
+    "topic": "product",
+    "source_type": "product-facts",
+    "product_id": "small-steps-sweatpants",
+    "title": "Synthetic product notes: Small Steps Sweatpants",
+    "content": "Synthetic learning demo product notes: Small Steps Sweatpants is a clothing item. Relaxed sweatpants with a small progress marker near the pocket, made for comfortable creative routines. Materials are Cotton fleece and Recycled polyester blend. The available Size options are S, M, L, and XL. The available Colour options are Soft White and Deep Blue. Care: Machine wash cold with similar colours and air dry for best results. Design meaning: The small marker keeps the focus on the next useful step instead of demanding a perfect result today. Creator recommendation: Jia Wei recommends this for comfortable home editing, planning, and recovery-day routines.",
+    "synthetic": true,
+    "approved_for_rag": true,
+    "facts": {
+      "name": "Small Steps Sweatpants",
+      "category": "clothing",
+      "description": "Relaxed sweatpants with a small progress marker near the pocket, made for comfortable creative routines.",
+      "materials": ["Cotton fleece", "Recycled polyester blend"],
+      "care_instructions": "Machine wash cold with similar colours and air dry for best results.",
+      "options": {"size": ["S", "M", "L", "XL"], "colour": ["Soft White", "Deep Blue"]},
+      "design_meaning": "The small marker keeps the focus on the next useful step instead of demanding a perfect result today.",
+      "creator_recommendation": "Jia Wei recommends this for comfortable home editing, planning, and recovery-day routines."
+    }
+  },
+  {
+    "source_id": "product-playback-cap",
+    "topic": "product",
+    "source_type": "product-facts",
+    "product_id": "playback-cap",
+    "title": "Synthetic product notes: Playback Cap",
+    "content": "Synthetic learning demo product notes: Playback Cap is a headwear item. A casual adjustable cap with a small playback symbol for filming days, errands, and edit breaks. Materials are Cotton twill and Metal adjuster. The available Fit option is Adjustable one-size. The available Colour options are Deep Blue and Energetic Orange. Care: Spot clean with a damp cloth and let the cap air dry naturally. Design meaning: Playback is a chance to notice what worked, learn from what did not, and try the next cut with more clarity. Creator recommendation: Jia Wei recommends this for fans who want the editing reference to stay small and wearable.",
+    "synthetic": true,
+    "approved_for_rag": true,
+    "facts": {
+      "name": "Playback Cap",
+      "category": "headwear",
+      "description": "A casual adjustable cap with a small playback symbol for filming days, errands, and edit breaks.",
+      "materials": ["Cotton twill", "Metal adjuster"],
+      "care_instructions": "Spot clean with a damp cloth and let the cap air dry naturally.",
+      "options": {"fit": ["Adjustable one-size"], "colour": ["Deep Blue", "Energetic Orange"]},
+      "design_meaning": "Playback is a chance to notice what worked, learn from what did not, and try the next cut with more clarity.",
+      "creator_recommendation": "Jia Wei recommends this for fans who want the editing reference to stay small and wearable."
+    }
+  },
+  {
+    "source_id": "product-edit-mode-dad-cap",
+    "topic": "product",
+    "source_type": "product-facts",
+    "product_id": "edit-mode-dad-cap",
+    "title": "Synthetic product notes: Edit Mode Dad Cap",
+    "content": "Synthetic learning demo product notes: Edit Mode Dad Cap is a headwear item. A relaxed washed cap with an edit mode label for focused work sessions and everyday creator life. Materials are Washed cotton twill and Metal adjuster. The available Fit option is Adjustable one-size. The available Colour options are Creative Purple and Soft White. Care: Spot clean gently and avoid machine washing to protect the washed finish. Design meaning: The edit mode label gives permission to focus on one small piece of work at a time. Creator recommendation: Jia Wei recommends this for fans who like a softer, everyday silhouette while they study or create.",
+    "synthetic": true,
+    "approved_for_rag": true,
+    "facts": {
+      "name": "Edit Mode Dad Cap",
+      "category": "headwear",
+      "description": "A relaxed washed cap with an edit mode label for focused work sessions and everyday creator life.",
+      "materials": ["Washed cotton twill", "Metal adjuster"],
+      "care_instructions": "Spot clean gently and avoid machine washing to protect the washed finish.",
+      "options": {"fit": ["Adjustable one-size"], "colour": ["Creative Purple", "Soft White"]},
+      "design_meaning": "The edit mode label gives permission to focus on one small piece of work at a time.",
+      "creator_recommendation": "Jia Wei recommends this for fans who like a softer, everyday silhouette while they study or create."
+    }
+  },
+  {
+    "source_id": "product-frame-marker-beanie",
+    "topic": "product",
+    "source_type": "product-facts",
+    "product_id": "frame-marker-beanie",
+    "title": "Synthetic product notes: Frame Marker Beanie",
+    "content": "Synthetic learning demo product notes: Frame Marker Beanie is a headwear item. A warm ribbed beanie with one bright frame marker woven into the cuff. The material is Acrylic knit. The available Colour options are Soft White and Deep Blue. Care: Hand wash gently in cool water and lay flat to dry. Design meaning: The single marker is a small sign that even a quiet day can hold a moment worth keeping. Creator recommendation: Jia Wei recommends this for fans who want a warm, subtle piece with one playful editing detail.",
+    "synthetic": true,
+    "approved_for_rag": true,
+    "facts": {
+      "name": "Frame Marker Beanie",
+      "category": "headwear",
+      "description": "A warm ribbed beanie with one bright frame marker woven into the cuff.",
+      "materials": ["Acrylic knit"],
+      "care_instructions": "Hand wash gently in cool water and lay flat to dry.",
+      "options": {"colour": ["Soft White", "Deep Blue"]},
+      "design_meaning": "The single marker is a small sign that even a quiet day can hold a moment worth keeping.",
+      "creator_recommendation": "Jia Wei recommends this for fans who want a warm, subtle piece with one playful editing detail."
+    }
+  }
+]
