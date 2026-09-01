@@ -8,6 +8,21 @@ A new version of the JW Studio website built as a deliberate learning project fo
 
 For a concise portfolio handoff, see `docs/portfolio-handoff.md`. For the selected Vercel + Render plan, see `docs/deployment-plan.md`.
 
+## Visual preview
+
+| 01. Creator Studio & Story | 02. Scrollytelling Timeline |
+| :---: | :---: |
+| ![01 Home Hero](docs/screenshots/01-home-hero.png) | ![02 Story Scrollytelling](docs/screenshots/02-scrollytelling-story.png) |
+
+| 03. Product Collection (`/shop`) | 04. Product Detail & Swatch Options |
+| :---: | :---: |
+| ![03 Product Catalog](docs/screenshots/03-product-catalog.png) | ![04 Product Detail](docs/screenshots/04-product-detail.png) |
+
+| 05. Cart Management (`/cart`) | 06. Demo Checkout & Confirmation (`/demo/result`) |
+| :---: | :---: |
+| ![05 Cart](docs/screenshots/05-cart.png) | ![06 Demo Result](docs/screenshots/06-demo-result.png) |
+
+
 ## Development workflow
 
 1. Define the product problem and target user.
